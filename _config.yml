@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "OH.SeungAhn"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "항상 최선을 다하는 사람!"
-  location         : "Somewhere"
+  bio              : "항상 최선을 다하는 사람"
+  location         : "Korea.Gimpo"
   email            :
   links:
     - label: "Email"

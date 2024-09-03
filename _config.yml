@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "contrast"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -117,11 +117,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "항상 최선을 다하는 사람."
   location         : "Korea.Gimpo"
-  email            :
+  email            : "dhtmddks98@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "dhtmddks98@naver.com"
+      url: "mailto:dhtmddks98@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

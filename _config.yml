@@ -12,8 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : #"air" "air", "aqua", 
-                            "contrast", #"dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"air", "aqua", "contrast", #"dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -116,7 +115,7 @@ analytics:
 author:
   name             : "OH.SeungAhn"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "항상 최선을 다하는 사람!!"
+  bio              : "항상 최선을 다하는 사람!"
   location         : "Somewhere"
   email            :
   links:

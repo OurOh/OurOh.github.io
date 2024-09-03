@@ -137,7 +137,7 @@ author:
 
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
-    url: "https://ouroh.github.io" # 주석 처리된 URL
+    url: "https://github.com/OurOh?tab=repositories" # 주석 처리된 URL
 
   - label: "Instagram"
     icon: "fab fa-fw fa-instagram"
@@ -154,7 +154,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: "https://github.com/OurOh?tab=repositories"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
